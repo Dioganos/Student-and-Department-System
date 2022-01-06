@@ -1,0 +1,11 @@
+C:\Users\Emircan\source\repos\Bolum-Ogrenci Veri Yapilari Final Porjesi\Bolum-Ogrenci Veri Yapilari Final Porjesi\bin\Debug\Bolum-Ogrenci Veri Yapilari Final Porjesi.exe.config
+C:\Users\Emircan\source\repos\Bolum-Ogrenci Veri Yapilari Final Porjesi\Bolum-Ogrenci Veri Yapilari Final Porjesi\bin\Debug\Bolum-Ogrenci Veri Yapilari Final Porjesi.exe
+C:\Users\Emircan\source\repos\Bolum-Ogrenci Veri Yapilari Final Porjesi\Bolum-Ogrenci Veri Yapilari Final Porjesi\bin\Debug\Bolum-Ogrenci Veri Yapilari Final Porjesi.pdb
+C:\Users\Emircan\source\repos\Bolum-Ogrenci Veri Yapilari Final Porjesi\Bolum-Ogrenci Veri Yapilari Final Porjesi\obj\Debug\Bolum-Ogrenci Veri Yapilari Final Porjesi.csproj.AssemblyReference.cache
+C:\Users\Emircan\source\repos\Bolum-Ogrenci Veri Yapilari Final Porjesi\Bolum-Ogrenci Veri Yapilari Final Porjesi\obj\Debug\Bolum_Ogrenci_Veri_Yapilari_Final_Porjesi.BolumOgrenci.resources
+C:\Users\Emircan\source\repos\Bolum-Ogrenci Veri Yapilari Final Porjesi\Bolum-Ogrenci Veri Yapilari Final Porjesi\obj\Debug\Bolum_Ogrenci_Veri_Yapilari_Final_Porjesi.BolumOgrenciEkleCikarDegistir.resources
+C:\Users\Emircan\source\repos\Bolum-Ogrenci Veri Yapilari Final Porjesi\Bolum-Ogrenci Veri Yapilari Final Porjesi\obj\Debug\Bolum_Ogrenci_Veri_Yapilari_Final_Porjesi.Properties.Resources.resources
+C:\Users\Emircan\source\repos\Bolum-Ogrenci Veri Yapilari Final Porjesi\Bolum-Ogrenci Veri Yapilari Final Porjesi\obj\Debug\Bolum-Ogrenci Veri Yapilari Final Porjesi.csproj.GenerateResource.cache
+C:\Users\Emircan\source\repos\Bolum-Ogrenci Veri Yapilari Final Porjesi\Bolum-Ogrenci Veri Yapilari Final Porjesi\obj\Debug\Bolum-Ogrenci Veri Yapilari Final Porjesi.csproj.CoreCompileInputs.cache
+C:\Users\Emircan\source\repos\Bolum-Ogrenci Veri Yapilari Final Porjesi\Bolum-Ogrenci Veri Yapilari Final Porjesi\obj\Debug\Bolum-Ogrenci Veri Yapilari Final Porjesi.exe
+C:\Users\Emircan\source\repos\Bolum-Ogrenci Veri Yapilari Final Porjesi\Bolum-Ogrenci Veri Yapilari Final Porjesi\obj\Debug\Bolum-Ogrenci Veri Yapilari Final Porjesi.pdb
