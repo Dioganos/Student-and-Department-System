@@ -1,2 +1,2 @@
 # Student-and-Department-System
-List and edit Departments and Students which includes the informations that number and degree.
+This program lists and edits departments and students which includes the informations about number and degree
